@@ -1,5 +1,5 @@
 
-Final Project Report - Ben Beiter, Roghaiyeh Ansari
+Final Project Report - Roghaiyeh Ansari,Ben Beiter
 
 
 ## Replication of the Paper: System Identification Using Artificial Neural Networks
